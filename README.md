@@ -7,7 +7,7 @@ This was completed for this Odin Project Lesson.
 ### Built With
 * [Ruby on Rails](https://rubyonrails.org/)
 
-## Getting Started
+### Getting Started
 
 To get started with the app, clone the repo and then install the needed gems:
 ```sh

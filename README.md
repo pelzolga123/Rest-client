@@ -14,7 +14,7 @@ To get started with the app, clone the repo and then install the needed gems:
 $ bundle install --without production
 ```
 
-Then, run the app in terminal:
+Then, run the app in the terminal:
 ```sh
 $ ruby rest-client.rb
 

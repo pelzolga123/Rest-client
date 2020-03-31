@@ -2,7 +2,7 @@
 
 This is a rudimentary usage of REST Client to analyze HTTP requests with a Bing search.
 
-This was completed for this Odin Project Lesson.
+This was completed for Odin Project Lesson.
 
 ### Built With
 * [Ruby on Rails](https://rubyonrails.org/)
